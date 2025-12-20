@@ -35,7 +35,7 @@
 
 ## 🛠️ Tech & Tools  
 
-- **Languages**: JavaScript, C#, C, C++, SQL, HTML, CSS  
+- **Languages**: JavaScript, C#, C, C++, SQL, HTML, CSS , PHP and Javascript 
 - **Databases**: Oracle APEX, MySQL, SQL Server  
 - **Other**: Git/GitHub  
 
