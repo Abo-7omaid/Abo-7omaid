@@ -11,7 +11,7 @@
 - 🎓 Computer Science student who **loves my major**  
 - 🌐 Focused on **JavaScript development & creative web design**  
 - 🗄️ Skilled in **database design & development** (Oracle APEX, MySQL, SQL Server)  
-- 💻 Experienced with **C#, C++, SQL, HTML, CSS, JavaScript**  
+- 💻 Experienced with **C#, C++, SQL, HTML, CSS, JavaScript, PHP and Python**  
 - 🛠️ Enjoy building **user-friendly systems and websites**  
 
 ---
@@ -21,7 +21,7 @@
 ### 🔹 Electronics Inventory Management System  
 - Built with **C# and SQL Server**  
 - Includes **sales, product management, suppliers, triggers**  
-- Focus on **validations, availability checks, and error-free billing**    
+  
 
 ### 🔹 Yemenia Airways Online Booking System (YAOBS)  
 - Roles: **Passengers, Managers, CSRs, Admin, CAA**  
@@ -35,7 +35,7 @@
 
 ## 🛠️ Tech & Tools  
 
-- **Languages**: JavaScript, C#, C, C++, SQL, HTML, CSS , PHP and Javascript 
+- **Languages**: JavaScript, C#, C, C++, SQL, HTML, CSS , Python, PHP and Javascript 
 - **Databases**: Oracle APEX, MySQL, SQL Server  
 - **Other**: Git/GitHub  
 
